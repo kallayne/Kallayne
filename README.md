@@ -2,7 +2,6 @@
 
 - 🖥️: Estou cursando na área de programação
 - 📚:  HTML | CSS | JavaScript | react |My Skl
-- 🏫:  Cursando na N.s de fatima| Frei
 
 Liguagens que estou aprendendo:
 
