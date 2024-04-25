@@ -1,7 +1,7 @@
 
 
-- 🖥️: Estou cursando na área de programação
-- 📚:  HTML | CSS | JavaScript | react |My Skl
+- 🖥️: Computer science student
+- 📚:  HTML | CSS | JavaScript | react |My Skl | C | Pyton
 
 Liguagens que estou aprendendo:
 
