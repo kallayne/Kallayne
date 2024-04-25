@@ -3,7 +3,8 @@
 - 🖥️: Computer science student
 - 📚:  HTML | CSS | JavaScript | react |My Skl | C | Pyton
 
-Liguagens que estou aprendendo:
+
+
 
 
    <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  />  <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
